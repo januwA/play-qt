@@ -31,4 +31,4 @@ https://ffmpeg.zeranoe.com/builds/
    }
   ```
 
-4. 如果运行debug异常，就把FFmpeg/shared/* 拷贝到 build-<project>-Desktop_Qt_5_9_9_MinGW_32bit-Debug/debug/ 下面后，再次运行
+4. 如果运行debug异常，就把FFmpeg/shared/bin/* 拷贝到 build-<project>-Desktop_Qt_5_9_9_MinGW_32bit-Debug/debug/ 下面后，再次运行
